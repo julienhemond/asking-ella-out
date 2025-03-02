@@ -113,7 +113,7 @@ function initThirdPart() {
     const br = document.createElement("br");
     main.appendChild(br);
     const p = document.createElement("p");
-    p.innerHTML = "I wanted to send a confirmation email to both <br>of us, but it's harder than it looks,<br>so just tell me when you're done with the form 😅";
+    p.innerHTML = "I wanted to send a confirmation email to both <br>of us, but it's harder than I thought,<br>so just tell me when you're done with the form 😅";
     main.appendChild(p);
 }
 
