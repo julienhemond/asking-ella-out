@@ -23,7 +23,7 @@ function handleSubmitFirstPart(event) {
         alert("Try a little harder!");
         deleteOptionGoOut(idYes, labelYes);
     } else if (data.go_out === idNo) {
-        alert("Really? You're missing out on my sweet bod! I'm pretty sure this is an mistake, try again!");
+        alert("Really? You're missing out on my sweet bod! I'm pretty sure this is a mistake, try again!");
         deleteOptionGoOut(idNo, labelNo);
     } else {
         alert("You need to pick an answer Ella!");
